@@ -1,0 +1,4 @@
+# Modèle : faire une copie nommée terraform.tfvars avec les infos du lab
+
+project_id = "qwiklabs-gcp-xx-xxxxxxxxxxxx" # dans le panneau du lab
+region     = "us-central1"                  # dans le panneau du lab
